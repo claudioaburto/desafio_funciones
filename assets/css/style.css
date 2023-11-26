@@ -1,0 +1,39 @@
+* {
+  background-color: rgb(226, 173, 98);
+}
+.title {
+  text-align: center;
+  color: black;
+  font-size: 50px;
+}
+.links {
+  color: white;
+  font-size: 1.8em;
+  margin-bottom: 1em;
+}
+.pint {
+  font-size: 2em;
+}
+.cuadro {
+  display: flex;
+  width: 200px;
+  height: 200px;
+  margin: 5px;
+  border: 1px solid black;
+  border-radius: 100px;
+}
+#key {
+  width: 200px;
+  height: 200px;
+  margin: 5px;
+  border: 1px solid black;
+}
+#key1 {
+  width: 200px;
+  height: 200px;
+  margin: 5px;
+  border: 1px solid black;
+}
+.container1 {
+  display: flex;
+}
